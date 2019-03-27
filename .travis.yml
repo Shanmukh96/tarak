@@ -5,5 +5,5 @@ matrix:
  compiler:
  - gcc
  script:
-- gcc -o test mm.c // we can use gcc instead of clang too
+- gcc -o test mm.c 
  - ./test
